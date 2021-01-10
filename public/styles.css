@@ -1,0 +1,19 @@
+h1{
+    color: red;
+    font-size: 3em;
+}
+
+p>input{
+    border-radius: 15px;
+    height: 3vh;
+    width: 50vw;
+}
+form>p{
+    font-size: 2em;
+}
+
+form{
+    border: solid 1px;
+    padding: 5%;
+    width: 50vw;
+}
